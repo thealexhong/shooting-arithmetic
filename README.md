@@ -1,33 +1,24 @@
 #Boom! Math Shot
 **Authors:** Alex Hong, Danny Dinh
-
 **Goal:** Educational Game - Learn addition, subtraction, multiplication, division
-
 **Target:** Elementary Student (Gr 1 - 4)
-
 **Subject:** Mathematics
-
 **Number of Players:** Only 1
-
-#####Game
+###Game
 **Number of Levels:** 10
-
 **Difficulties:**
       * Piece of Cake (easy)
 	    * I love to think (medium)
 	    * Brain Shot! (hard)
-
 **Rules:**
 1. There are 10 levels in each difficulty.
 2. Player must gain EXP points by answering math questions correctly to go to the next level.
 3. If the player answers wrong, he/she losses 5 EXP points.
 4. The player cannot level down. 0% is the lowest EXP point a player can have.
-
 **Objective:** Answer the given question correctly by shooting at the correct answer using adjustable angle and power.
-
 The angle is adjusted with the UP and DOWN arrow keys, while the power is determined by how long you hold the spacebar. CHANGED: angle and power are now user inputs.
 
-#####Version Control
+###Version Control
 **v.1.0**
 * basic game frame
 * menu options complete
