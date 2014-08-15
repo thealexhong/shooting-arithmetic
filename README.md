@@ -13,11 +13,13 @@
 **Number of Levels:** 10
 
 **Difficulties:**
-      * Piece of Cake (easy)
-	    * I love to think (medium)
-	    * Brain Shot! (hard)
+
+* Piece of Cake (easy)
+* I love to think (medium)
+* Brain Shot! (hard)
 
 **Rules:**
+
 1. There are 10 levels in each difficulty.
 2. Player must gain EXP points by answering math questions correctly to go to the next level.
 3. If the player answers wrong, he/she losses 5 EXP points.
